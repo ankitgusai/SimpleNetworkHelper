@@ -1,5 +1,5 @@
 # SimpleNetworkHelper
-This is simple lightwight http network call solution. it is build on top of couple of well known libraries(mainly [okhttp](https://github.com/square/okhttp)) and [RxAndroid](https://github.com/ReactiveX/RxAndroid).  
+This is simple lightwight http network call solution. it is build on top of couple of well known libraries(mainly [okhttp](https://github.com/square/okhttp) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)).  
 
 The API is Glide like and simple to use. The core feature is the convinience over response handling. the response handlers are completely decoupled from the networking and threding module. practically you can create and plug any kind of handler you want. 
 
